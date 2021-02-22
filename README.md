@@ -9,6 +9,8 @@ to train deep neural networks (DNNs) by following the FL pattern. To address thi
 Pruning, weight Quantization and Selective Updating, that work together to reduce the costs of computation, storage, and communication to accelerate the FL training process. We study FL-PQSU using popular DNN
 models (AlexNet, VGG16) and publicly available datasets (MNIST, CIFAR10), and demonstrate that it can well control the training overhead while still guaranteeing the learning performance.
 
+> 通过剪枝、量化和选择性更新来加速物联网设备上基于联邦计算的DNN模型训练
+
 This work will be published by IEEE Access.
 
 ## Required software
