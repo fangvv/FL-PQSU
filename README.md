@@ -11,7 +11,7 @@ models (AlexNet, VGG16) and publicly available datasets (MNIST, CIFAR10), and de
 
 > 通过剪枝、量化和选择性更新来加速物联网设备上基于联邦计算的DNN模型训练
 
-This work will be published by IEEE Access.
+This work will be published by IEEE Access, and the paper can be obtained from [here](https://doi.org/10.1109/ACCESS.2021.3063291).
 
 ## Required software
 
