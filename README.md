@@ -17,6 +17,19 @@ This work will be published by IEEE Access, and the paper can be obtained from [
 
 PyTorch
 
+## Citation
+
+      @ARTICLE{9366879,
+      author={Xu, Wenyuan and Fang, Weiwei and Ding, Yi and Zou, Meixia and Xiong, Naixue},
+      journal={IEEE Access}, 
+      title={Accelerating Federated Learning for IoT in Big Data Analytics With Pruning, Quantization and Selective Updating}, 
+      year={2021},
+      volume={9},
+      number={},
+      pages={38457-38466},
+      doi={10.1109/ACCESS.2021.3063291}
+	  }
+
 ## Contact
 
 Wenyuan Xu (19120419@bjtu.edu.cn)
