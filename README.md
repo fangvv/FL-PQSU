@@ -130,6 +130,10 @@ python Server.py
 
 **Note:** Before running, extract `data.rar` and place the datasets (MNIST CSV files / CIFAR10) into the corresponding data directories. The code also requires creating the output directories (e.g., `SaveModel/`, `Savetime/`, `SaveLossText/`, `SaveTransInfor/`, etc.) as referenced in the scripts.
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find FL-PQSU useful or relevant to your project and research, please kindly cite our paper:
